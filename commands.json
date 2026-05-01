@@ -1,0 +1,7 @@
+{
+  "wallpaper": "~/.scripts/wallpaper.sh --random",
+  "restart": "reboot",
+  "sleep": "systemctl suspend",
+  "lock": "hyprlock",
+  "wifi": "foot -e nmtui"
+}
